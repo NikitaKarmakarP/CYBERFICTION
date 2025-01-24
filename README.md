@@ -83,7 +83,8 @@ CYBERFICTION/
 
 Explore a sneak peek of the stunning visuals:
 
-![Sample Image](images/male0001.png)
+![image](https://github.com/user-attachments/assets/0c1d88bf-b569-4c84-b3e2-4a11d5fd571b)
+
 
 ---
 
